@@ -3,8 +3,8 @@
     [
        {
           "Name":"MarshMello",
-          "Cover":"https://i.pinimg.com/564x/d9/ba/95/d9ba95a57df148ea87212825766f12ca.jpg",
-          "TrackListLink":"https://lixus14.github.io/WatchMeNow/Artists/MarshMello.json"
+          "CoverArt":"https://i.pinimg.com/564x/d9/ba/95/d9ba95a57df148ea87212825766f12ca.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/MarshMello.json"
        }
     ]
 }

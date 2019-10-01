@@ -10,6 +10,11 @@
           "Name":"Panic at the Disco",
           "CoverArt":"https://i.pinimg.com/564x/2c/ad/fe/2cadfe6931ac87a9d8651be830d0cc7c.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PanicAtTheDisco.json"
+       },
+       {
+          "Name":"Maroon 5",
+          "CoverArt":"https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Maroon_5_-_Overexposed.png/220px-Maroon_5_-_Overexposed.png",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Maroon5.json"
        }
     ]
 }

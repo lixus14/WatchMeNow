@@ -5,6 +5,11 @@
           "Name":"MarshMello",
           "CoverArt":"https://i.pinimg.com/564x/d9/ba/95/d9ba95a57df148ea87212825766f12ca.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/MarshMello.json"
+       },
+       {
+          "Name":"Panic at the Disco",
+          "CoverArt":"https://i.pinimg.com/564x/2c/ad/fe/2cadfe6931ac87a9d8651be830d0cc7c.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PanicAtTheDisco.json"
        }
     ]
 }

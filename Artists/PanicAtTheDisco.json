@@ -1,0 +1,19 @@
+{
+   "Name":"Panic at the Disco",
+   "CoverArt":"https://i.pinimg.com/564x/2c/ad/fe/2cadfe6931ac87a9d8651be830d0cc7c.jpg",
+   "TrackList":
+          [
+            {
+              "Name":"High Hopes",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1TD0PgGZ3bXj-JAoAirdDGoBUl4nNOYNn",
+              "TrackLenght":"3:12"
+            },
+            {
+              "Name":"Hey look Ma, I Made It!",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1ZaRFqUoPlc0fq1oCghT9hfNKa-KdNAGJ",
+              "TrackLenght":"2:49"
+            }
+          ]
+}

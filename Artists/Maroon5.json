@@ -1,0 +1,37 @@
+{
+   "Name":"Maroon 5",
+   "CoverArt":"https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Maroon_5_-_Overexposed.png/220px-Maroon_5_-_Overexposed.png",
+   "TrackList":
+          [
+            {
+              "Name":"What Lovers Do",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1D-FeVEWGR6-4fHL0s_Y5bAPXD7pQsc9l",
+              "TrackLenght":"3:33"
+            },
+            {
+              "Name":"Payphone",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1rXiu2nDRDt7bDE-cLULvuf1XeLs_JvUC",
+              "TrackLenght":"4:05"
+            },
+            {
+              "Name":"She will be loved",
+              "TrackNumber":"3",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1o-u-ZOU2FDo9lq20TUeuLw2ssWyngD7O",
+              "TrackLenght":"4:14"
+            },
+            {
+              "Name":"Sugar",
+              "TrackNumber":"4",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1__NVwzNHsJQOK4BZpk8FkCr4QXGE20aX",
+              "TrackLenght":"3:52"
+            },
+            {
+              "Name":"Girls like you",
+              "TrackNumber":"5",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=12POGf1KkT6koRluXyE1rzCgpbYyB6OgC",
+              "TrackLenght":"3:53"
+            }
+          ]
+}

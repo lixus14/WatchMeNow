@@ -15,6 +15,11 @@
           "Name":"Maroon 5",
           "CoverArt":"https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Maroon_5_-_Overexposed.png/220px-Maroon_5_-_Overexposed.png",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Maroon5.json"
+       },
+       {
+          "Name":"5 Seconds of summer",
+          "CoverArt":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/5_Seconds_of_Summer_-_5_Seconds_of_Summer.png/220px-5_Seconds_of_Summer_-_5_Seconds_of_Summer.png",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/5SecondsOfSummer.json"
        }
     ]
 }

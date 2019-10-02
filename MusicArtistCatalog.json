@@ -25,6 +25,11 @@
           "Name":"The Greatest Showman",
           "CoverArt":"https://images-na.ssl-images-amazon.com/images/I/91DM4nVsKDL._SL1500_.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/TheGreatestShowman.json"
+       },
+       {
+          "Name":"The Greatest Showman (Reimagined)",
+          "CoverArt":"https://i.scdn.co/image/d6b9f37838bb6f4eb8ffca96fe18b20b3d23f2f8",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/TheGreatestShowmanReimagined.json"
        }
     ]
 }

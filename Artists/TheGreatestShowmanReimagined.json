@@ -1,0 +1,19 @@
+{
+   "Name":"The Greatest Showman Reimagined",
+   "CoverArt":"https://i.scdn.co/image/d6b9f37838bb6f4eb8ffca96fe18b20b3d23f2f8",
+   "TrackList":
+          [
+            {
+              "Name":"A million dreams (P!ink)",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1fa1aducMAc6WFrocefayKccx44NUQuMx",
+              "TrackLenght":"4:28"
+            },
+            {
+              "Name":"The greatest show (Panic at the Disco)",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1S5Uul7L9WBYk1cK6m4paxMIciMoxEpwJ",
+              "TrackLenght":"2:54"
+            }
+          ]
+}

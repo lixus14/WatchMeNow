@@ -20,6 +20,11 @@
           "Name":"5 Seconds of summer",
           "CoverArt":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/5_Seconds_of_Summer_-_5_Seconds_of_Summer.png/220px-5_Seconds_of_Summer_-_5_Seconds_of_Summer.png",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/5SecondsOfSummer.json"
+       },
+       {
+          "Name":"The Greatest Showman",
+          "CoverArt":"https://images-na.ssl-images-amazon.com/images/I/91DM4nVsKDL._SL1500_.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/TheGreatestShowman.json"
        }
     ]
 }

@@ -30,6 +30,11 @@
           "Name":"The Greatest Showman (Reimagined)",
           "CoverArt":"https://i.scdn.co/image/d6b9f37838bb6f4eb8ffca96fe18b20b3d23f2f8",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/TheGreatestShowmanReimagined.json"
+       },
+       {
+          "Name":"Maná",
+          "CoverArt":"https://i.pinimg.com/originals/e6/27/68/e627689a2de147af42634e01210bf764.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Mana.json"
        }
     ]
 }

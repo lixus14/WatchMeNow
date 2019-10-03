@@ -1,0 +1,61 @@
+{
+   "Name":"Maná",
+   "CoverArt":"https://i.pinimg.com/originals/e6/27/68/e627689a2de147af42634e01210bf764.jpg",
+   "TrackList":
+          [
+            {
+              "Name":"Oye mi amor",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1Yh22cNV3AhZzcSUJP1DE8sG6eqGQ44AV",
+              "TrackLenght":"4:32"
+            },
+            {
+              "Name":"En el muelle de San Blas",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1LLAqTCGwOx2mS5MR4mlBp7sCOdkbp92c",
+              "TrackLenght":"5:52"
+            },
+            {
+              "Name":"Labios compartidos",
+              "TrackNumber":"3",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1v1WomC7aMZgYoByXiLuUXsLBfW6SLTJ2",
+              "TrackLenght":"5:17"
+            },
+            {
+              "Name":"Rayando el sol",
+              "TrackNumber":"4",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1D91PmpWc3XJfCx4KAA-sZeKut8oW1XtG",
+              "TrackLenght":"4:12"
+            },
+            {
+              "Name":"Vivir sin aire",
+              "TrackNumber":"5",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1NXUGQM4X7oGPxmqy7n5rLz9WIJY-rPHY",
+              "TrackLenght":"4:52"
+            },
+            {
+              "Name":"Mariposa traicionera",
+              "TrackNumber":"6",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1jGNDx-fvEI_jpW691tGsftrY6FFfu9-u",
+              "TrackLenght":"4:30"
+            },
+            {
+              "Name":"Clavado en un bar",
+              "TrackNumber":"7",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1g5CRVQstWlGeeYAsAieI1a0XG7VeZI3l",
+              "TrackLenght":"5:11"
+            },
+            {
+              "Name":"El verdadero amor perdona",
+              "TrackNumber":"8",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=18EgKne6lan-FgrPFPVAXOWTarpu2HrcT",
+              "TrackLenght":"3:56"
+            },
+            {
+              "Name":"Bendita tu luz",
+              "TrackNumber":"9",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1DfjMA5eUTpo15K94qPdt9MclnmdqxTvy",
+              "TrackLenght":"4:10"
+            }
+          ]
+}

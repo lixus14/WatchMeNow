@@ -35,6 +35,11 @@
           "Name":"Maná",
           "CoverArt":"https://i.pinimg.com/originals/e6/27/68/e627689a2de147af42634e01210bf764.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Mana.json"
+       },
+       {
+          "Name":"Reik",
+          "CoverArt":"https://cont-5.p-cdn.us/images/public/rovi/albumart/2/2/1/7/886978957122_1080W_1080H.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Reik.json"
        }
     ]
 }

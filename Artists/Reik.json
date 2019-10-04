@@ -1,0 +1,85 @@
+{
+   "Name":"Reik",
+   "CoverArt":"https://cont-5.p-cdn.us/images/public/rovi/albumart/2/2/1/7/886978957122_1080W_1080H.jpg",
+   "TrackList":
+          [
+            {
+              "Name":"Peligro",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1ZE-CR2QK1wvAt2bMXos41HhEp4flo6Fb",
+              "TrackLenght":"3:50"
+            },
+            {
+              "Name":"Invierno",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1AoUAiumIa9Ov8fv0mAU-qXXdZZx3_wB3",
+              "TrackLenght":"3:39"
+            },
+            {
+              "Name":"Inolvidable",
+              "TrackNumber":"3",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1VHaL_vlwsNrUfzVGnidApLr1u9H27ulh",
+              "TrackLenght":"3:53"
+            },
+            {
+              "Name":"Que vida la mia",
+              "TrackNumber":"4",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1YOS5dzHnrhDa3UgYSuIIw4C8c1oCvPIZ",
+              "TrackLenght":"2:54"
+            },
+            {
+              "Name":"Tu mirada",
+              "TrackNumber":"5",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1VQIWZnHTU6-GhbvGQbDozxYqo5Ikjs8Z",
+              "TrackLenght":"3:21"
+            },
+            {
+              "Name":"Voy a olvidarte",
+              "TrackNumber":"6",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1wOz3tWiltjzkly9_7iv9_44rG7EIDwsn",
+              "TrackLenght":"3:19"
+            },
+            {
+              "Name":"Me duele amarte",
+              "TrackNumber":"7",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1PXykggNwvpedv7oEi-fdkwaKLQDN8HCo",
+              "TrackLenght":"3:14"
+            },
+            {
+              "Name":"Que gano olvidandote",
+              "TrackNumber":"8",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1H7CGKuRRuJqM4MW465V-sUIN7c4KuN4n",
+              "TrackLenght":"3:20"
+            },
+            {
+              "Name":"Que gano olvidandote ft. Zion y Lenox",
+              "TrackNumber":"9",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1hFShVs1EBbrGXTg3fXU1ySbZElT-fKdd",
+              "TrackLenght":"4:24"
+            },
+            {
+              "Name":"Noviembre sin ti",
+              "TrackNumber":"10",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1nIlGyE7xU_zJPwCy1FrcldmtbTNGeQWo",
+              "TrackLenght":"3:22"
+            },
+            {
+              "Name":"Me niego",
+              "TrackNumber":"11",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1RHQNKmWaX7Y5h1E7-xUSQCfu5xEhN0Nq",
+              "TrackLenght":"3:41"
+            },
+            {
+              "Name":"Ya me enteré",
+              "TrackNumber":"12",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1FJn1cteVwhQX7k8Vk-UDKXH2wbNFvXK6",
+              "TrackLenght":"3:29"
+            },
+            {
+              "Name":"Un año",
+              "TrackNumber":"13",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=15H2HxZrGvC215M3R1wUBjJY3OhufcqZL",
+              "TrackLenght":"3:22"
+            }
+          ]
+}

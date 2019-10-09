@@ -1,0 +1,37 @@
+{
+   "Name":"Moana",
+   "CoverArt":"https://images-na.ssl-images-amazon.com/images/I/81ZwiXgVTKL._SL1500_.jpg",
+   "TrackList":
+          [
+            {
+              "Name":"Where you are",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1U_Y0FXOwqKUjnZ15_kCgmH31RGvPeltu",
+              "TrackLenght":"3:20"
+            },
+            {
+              "Name":"How far ill go",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1ALKeWEjFFguHdtgflRKubCqFcg9SJFWz",
+              "TrackLenght":"2:35"
+            },
+            {
+              "Name":"We know the way",
+              "TrackNumber":"3",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1c6QuwY-zJHTJ7j7Cuc3vhVO9IO7lVjMd",
+              "TrackLenght":"2:35"
+            },
+            {
+              "Name":"Youre welcome",
+              "TrackNumber":"4",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=17FnJSOj5KFcHsdjXxeSasYk--aHsy8DG",
+              "TrackLenght":"2:48"
+            },
+            {
+              "Name":"Shiny",
+              "TrackNumber":"5",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1X6wQYozD8s7XOzrCONm5ZX5DVSTKFY-g",
+              "TrackLenght":"3:24"
+            }
+          ]
+}

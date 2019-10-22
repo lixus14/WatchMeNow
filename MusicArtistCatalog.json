@@ -41,10 +41,15 @@
           "CoverArt":"https://cont-5.p-cdn.us/images/public/rovi/albumart/2/2/1/7/886978957122_1080W_1080H.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Reik.json"
        },
-      {
+       {
           "Name":"Moana",
           "CoverArt":"https://images-na.ssl-images-amazon.com/images/I/81ZwiXgVTKL._SL1500_.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Moana.json"
+       },
+       {
+          "Name":"Ed Sheeran",
+          "CoverArt":"https://www.hifigear.co.uk/media/catalog/product/9/1/91fu9fd9fyl._sl1425_.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/EdSheeran.json"
        }
     ]
 }

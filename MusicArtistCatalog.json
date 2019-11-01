@@ -50,6 +50,11 @@
           "Name":"Ed Sheeran",
           "CoverArt":"http://themusicbox.net/wp-content/uploads/2017/01/Ed-Sheeran_Divide_Final_Artwork_Medium_Size-44527.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/EdSheeran.json"
+       },
+       {
+          "Name":"Avicii",
+          "CoverArt":"https://i.pinimg.com/originals/67/2f/92/672f920661347596b3d40941f1c6d59d.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Avicii.json"
        }
     ]
 }

@@ -1,0 +1,25 @@
+{
+   "Name":"Youtube Artists",
+   "CoverArt":"https://cdn.instructables.com/FF2/JJ5C/HHS9UEFV/FF2JJ5CHHS9UEFV.LARGE.jpg",
+   "TrackList":
+          [
+            {
+              "Name":"Mystery Skulls - Ghost",
+              "TrackNumber":"1",
+              "FileUrl":"1SwbnYg5PCYMt9wkrhFY9pCpo6X3ZLibk",
+              "TrackLenght":"4:35"
+            },
+            {
+              "Name":"Mystery Skulls - Freaking Out",
+              "TrackNumber":"2",
+              "FileUrl":"1NzfKpJnsCPkHOX3OOUwFvPW9pzGDk8kj",
+              "TrackLenght":"4:05"
+            },
+            {
+              "Name":"Mystery Skulls - Hellbent",
+              "TrackNumber":"3",
+              "FileUrl":"18ACTLJ6STy1YnR1RO2cDgUrtkeHOR-Kg",
+              "TrackLenght":"5:14"
+            }
+          ]
+}

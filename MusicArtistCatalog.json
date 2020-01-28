@@ -55,6 +55,11 @@
           "Name":"Avicii",
           "CoverArt":"https://i.pinimg.com/originals/67/2f/92/672f920661347596b3d40941f1c6d59d.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Avicii.json"
+       },
+       {
+          "Name":"Youtube Artists",
+          "CoverArt":"https://cdn.instructables.com/FF2/JJ5C/HHS9UEFV/FF2JJ5CHHS9UEFV.LARGE.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/YouTube.json"
        }
     ]
 }

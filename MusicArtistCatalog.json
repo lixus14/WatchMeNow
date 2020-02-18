@@ -57,6 +57,11 @@
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Avicii.json"
        },
        {
+          "Name":"Skrillex",
+          "CoverArt":"https://content-images.p-cdn.com/images/public/int/6/5/9/3/800073956_1080W_1080H.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Skrillex.json"
+       },
+       {
           "Name":"Youtube Artists",
           "CoverArt":"https://cdn.instructables.com/FF2/JJ5C/HHS9UEFV/FF2JJ5CHHS9UEFV.LARGE.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/YouTube.json"

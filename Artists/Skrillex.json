@@ -7,31 +7,36 @@
               "Name":"Bangarang",
               "TrackNumber":"1",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1g-JQEMuMs5_TNyFOiJWjsSQe9wI6B6Wa",
-              "TrackLenght":"3:39"
+              "TrackLenght":"3:39",
+              "LyricsUrl":"a=skrillex&s=bangarang"
             },
             {
               "Name":"Face My Fears (Original)",
               "TrackNumber":"2",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1jL5I_iDNGYJ-EmFZz91h37DRpd2Xuu_W",
-              "TrackLenght":"3:38"
+              "TrackLenght":"3:38",
+              "LyricsUrl":"a=genius%20romanizations&s=hikaru%20utada%20and%20skrillex%20face%20my%20fears%20japanese%20version%20romanized"
             },
              {
               "Name":"Face My Fears (English Dub)",
               "TrackNumber":"3",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1zraxFkOyxSI9x-uMOwMj-RaTEay1aS7W",
-              "TrackLenght":"3:42"
+              "TrackLenght":"3:42",
+              "LyricsUrl":"a=hikaru%20utada%20and%20skrillex&s=face%20my%20fears%20english%20version"
             },
             {
               "Name":"Try It Out",
               "TrackNumber":"4",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1aJDvJokOuBGrvrSilg2IwmesGRMv-81i",
-              "TrackLenght":"3:56"
+              "TrackLenght":"3:56",
+              "LyricsUrl":"a=skrillex&s=try%20it%20out"
             },
             {
               "Name":"Where Are U Now",
               "TrackNumber":"5",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1bJmtHalzMe3Gz6wVRIggE6JgOYqcrnfc",
-              "TrackLenght":"4:01"
+              "TrackLenght":"4:01",
+              "LyricsUrl":"a=justin%20bieber&s=where%20are%20you%20now"
             }
           ]
 }

@@ -7,55 +7,64 @@
               "Name":"Come Alive",
               "TrackNumber":"1",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1qJPqDkwknsBM1rrCQLUEv9jg7jp9K09P",
-              "TrackLenght":"3:45"
+              "TrackLenght":"3:45",
+              "LyricsUrl":"a=the%20greatest%20showman&s=come%20alive"
             },
             {
               "Name":"The Greatest Show",
               "TrackNumber":"2",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1iZ82l0E3XU1NZBON3rPjVt8UTY2YnF56",
-              "TrackLenght":"5:02"
+              "TrackLenght":"5:02",
+              "LyricsUrl":"a=hugh%20jackman&s=the%20greatest%20show"
             },
             {
               "Name":"The other side",
               "TrackNumber":"3",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1axpNsu0E1Nxp127SZlC4pwb4rAj76Duq",
-              "TrackLenght":"3:34"
+              "TrackLenght":"3:34",
+              "LyricsUrl":"a=hugh%20jackman&s=the%20other%20side"
             },
             {
               "Name":"This is me",
               "TrackNumber":"4",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1Bi9rz_IeNwychEYt2G0gf6dTeCOMOlfJ",
-              "TrackLenght":"3:54"
+              "TrackLenght":"3:54",
+              "LyricsUrl":"q=Keala%20Settle%20this%20is%20me"
             },
             {
               "Name":"Never Enough",
               "TrackNumber":"5",
               "FileUrl":"https://docs.google.com/uc?export=open&id=143OWxktc7RtrF1mWR6msxwVoMQah3ynu",
-              "TrackLenght":"3:27"
+              "TrackLenght":"3:27",
+              "LyricsUrl":"q=Loren%20allred%20never%20enough"
             },
             {
               "Name":"Tightrope",
               "TrackNumber":"6",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1Yzj3rxsiX9wuRamfsgz92rmela7oN5wc",
-              "TrackLenght":"3:54"
+              "TrackLenght":"3:54",
+              "LyricsUrl":"q=michelle%20ingrid%20william%20thightrope"
             },
             {
               "Name":"From now on",
               "TrackNumber":"7",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1kenyEVGhvSmAV0MADp5XStjdBF7dYSBv",
-              "TrackLenght":"5:49"
+              "TrackLenght":"5:49",
+              "LyricsUrl":"a=hugh%20jackman&s=from%20now%20on"
             },
             {
               "Name":"Rewrite the stars",
               "TrackNumber":"8",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1Q_yzcpraVIcqA-n2iTAZqfcMHJN9p1iM",
-              "TrackLenght":"3:37"
+              "TrackLenght":"3:37",
+              "LyricsUrl":"a=zac%20efron&s=rewrite%20the%20stars"
             },
             {
               "Name":"A million dreams",
               "TrackNumber":"9",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1_VohWBMa69QOS7hnjdbW2pVV9aW7Hfsm",
-              "TrackLenght":"4:29"
+              "TrackLenght":"4:29",
+              "LyricsUrl":"a=ziv%20zaifman&s=a%20million%20dreams"
             }
           ]
 }

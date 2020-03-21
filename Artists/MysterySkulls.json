@@ -1,0 +1,28 @@
+{
+   "Name":"Mystery Skulls",
+   "CoverArt":"",
+   "TrackList":
+          [
+            {
+              "Name":"Ghost",
+              "TrackNumber":"1",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1SwbnYg5PCYMt9wkrhFY9pCpo6X3ZLibk",
+              "TrackLenght":"4:35",
+              "LyricsUrl":"a=mystery%20skulls&s=ghost"
+            },
+            {
+              "Name":"Freaking Out",
+              "TrackNumber":"2",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=1NzfKpJnsCPkHOX3OOUwFvPW9pzGDk8kj",
+              "TrackLenght":"4:05",
+              "LyricsUrl":"a=mystery%20skulls&s=Freaking%20out"
+            },
+            {
+              "Name":"Hellbent",
+              "TrackNumber":"3",
+              "FileUrl":"https://docs.google.com/uc?export=open&id=18ACTLJ6STy1YnR1RO2cDgUrtkeHOR-Kg",
+              "TrackLenght":"5:14",
+              "LyricsUrl":"q=hellbent"
+            }
+          ]
+}

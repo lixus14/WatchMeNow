@@ -62,6 +62,11 @@
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Skrillex.json"
        },
        {
+          "Name":"Mystery Skulls",
+          "CoverArt":"https://forums.musicboxalpha.com/uploads/monthly_2017_10/59dd5d13a03e6_MysterySkulls-FreakingOutCustombyrextexx.png.d11d1dd0155fb047f9c4797887f5c66b.png",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/MysterySkulls.json"
+       },
+       {
           "Name":"Youtube Artists",
           "CoverArt":"https://cdn.instructables.com/FF2/JJ5C/HHS9UEFV/FF2JJ5CHHS9UEFV.LARGE.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/YouTube.json"

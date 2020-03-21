@@ -7,55 +7,64 @@
               "Name":"Oye mi amor",
               "TrackNumber":"1",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1Yh22cNV3AhZzcSUJP1DE8sG6eqGQ44AV",
-              "TrackLenght":"4:32"
+              "TrackLenght":"4:32",
+              "LyricsUrl":"a=mana&s=oye%20mi%20amor"
             },
             {
               "Name":"En el muelle de San Blas",
               "TrackNumber":"2",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1LLAqTCGwOx2mS5MR4mlBp7sCOdkbp92c",
-              "TrackLenght":"5:52"
+              "TrackLenght":"5:52",
+              "LyricsUrl":"q=en%20el%20muelle%20de%20sanblas"
             },
             {
               "Name":"Labios compartidos",
               "TrackNumber":"3",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1v1WomC7aMZgYoByXiLuUXsLBfW6SLTJ2",
-              "TrackLenght":"5:17"
+              "TrackLenght":"5:17",
+              "LyricsUrl":"a=mana&s=labios%20compartidos"
             },
             {
               "Name":"Rayando el sol",
               "TrackNumber":"4",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1D91PmpWc3XJfCx4KAA-sZeKut8oW1XtG",
-              "TrackLenght":"4:12"
+              "TrackLenght":"4:12",
+              "LyricsUrl":"q=rayando%20el%20sol"
             },
             {
               "Name":"Vivir sin aire",
               "TrackNumber":"5",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1NXUGQM4X7oGPxmqy7n5rLz9WIJY-rPHY",
-              "TrackLenght":"4:52"
+              "TrackLenght":"4:52",
+              "LyricsUrl":"q=vivir%20sin%20aire"
             },
             {
               "Name":"Mariposa traicionera",
               "TrackNumber":"6",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1jGNDx-fvEI_jpW691tGsftrY6FFfu9-u",
-              "TrackLenght":"4:30"
+              "TrackLenght":"4:30",
+              "LyricsUrl":"q=Mariposa%20traicionera"
             },
             {
               "Name":"Clavado en un bar",
               "TrackNumber":"7",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1g5CRVQstWlGeeYAsAieI1a0XG7VeZI3l",
-              "TrackLenght":"5:11"
+              "TrackLenght":"5:11",
+              "LyricsUrl":"a=mana&s=Clavado%20en%20un%20Bar"
             },
             {
               "Name":"El verdadero amor perdona",
               "TrackNumber":"8",
               "FileUrl":"https://docs.google.com/uc?export=open&id=18EgKne6lan-FgrPFPVAXOWTarpu2HrcT",
-              "TrackLenght":"3:56"
+              "TrackLenght":"3:56",
+              "LyricsUrl":"q=el%20verdadero%20amor%20perdona"
             },
             {
               "Name":"Bendita tu luz",
               "TrackNumber":"9",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1DfjMA5eUTpo15K94qPdt9MclnmdqxTvy",
-              "TrackLenght":"4:10"
+              "TrackLenght":"4:10",
+              "LyricsUrl":"q=bendita%20tu%20luz"
             }
           ]
 }

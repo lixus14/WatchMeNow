@@ -7,31 +7,36 @@
               "Name":"Where you are",
               "TrackNumber":"1",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1U_Y0FXOwqKUjnZ15_kCgmH31RGvPeltu",
-              "TrackLenght":"3:20"
+              "TrackLenght":"3:20",
+              "LyricsUrl":"q=where%20you%20are"
             },
             {
               "Name":"How far ill go",
               "TrackNumber":"2",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1ALKeWEjFFguHdtgflRKubCqFcg9SJFWz",
-              "TrackLenght":"2:35"
+              "TrackLenght":"2:35",
+              "LyricsUrl":"q=how%20far%20ill%20go"
             },
             {
               "Name":"We know the way",
               "TrackNumber":"3",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1c6QuwY-zJHTJ7j7Cuc3vhVO9IO7lVjMd",
-              "TrackLenght":"2:35"
+              "TrackLenght":"2:35",
+              "LyricsUrl":"q=we%20know%20the%20way"
             },
             {
               "Name":"Youre welcome",
               "TrackNumber":"4",
               "FileUrl":"https://docs.google.com/uc?export=open&id=17FnJSOj5KFcHsdjXxeSasYk--aHsy8DG",
-              "TrackLenght":"2:48"
+              "TrackLenght":"2:48",
+              "LyricsUrl":"q=youre%20welcome"
             },
             {
               "Name":"Shiny",
               "TrackNumber":"5",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1X6wQYozD8s7XOzrCONm5ZX5DVSTKFY-g",
-              "TrackLenght":"3:24"
+              "TrackLenght":"3:24",
+              "LyricsUrl":"q=shiny"
             }
           ]
 }

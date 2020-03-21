@@ -7,13 +7,15 @@
               "Name":"A million dreams (P!ink)",
               "TrackNumber":"1",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1fa1aducMAc6WFrocefayKccx44NUQuMx",
-              "TrackLenght":"4:28"
+              "TrackLenght":"4:28",
+              "LyricsUrl":"q=a%20million%20dreams"
             },
             {
               "Name":"The greatest show (Panic at the Disco)",
               "TrackNumber":"2",
               "FileUrl":"https://docs.google.com/uc?export=open&id=1S5Uul7L9WBYk1cK6m4paxMIciMoxEpwJ",
-              "TrackLenght":"2:54"
+              "TrackLenght":"2:54",
+              "LyricsUrl":"q=the%20greatest%20show"
             }
           ]
 }

@@ -70,6 +70,11 @@
           "Name":"StarBomb",
           "CoverArt":"https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/7b/82/77/7b8277c1-40b0-54c2-2e48-39ed13c24c54/source/1200x1200bb.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/StarBomb.json"
+       },
+       {
+          "Name":"Pascu y Rodri",
+          "CoverArt":"https://images.genius.com/d0155eae6380fd0e9bbaccac506e3612.800x800x1.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PascuYRodri.json"
        }
     ]
 }

@@ -12,6 +12,11 @@
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PanicAtTheDisco.json"
        },
        {
+         "Name":"Pitbull",
+         "CoverArt":"https://cdn.wallpapersafari.com/28/1/iH7fCO.jpg",
+         "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Pitbull.json"
+       }, 
+       {
           "Name":"Maroon 5",
           "CoverArt":"https://i.pinimg.com/originals/91/a4/0f/91a40fa61548c7037027fbbfc3f8200d.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/Maroon5.json"

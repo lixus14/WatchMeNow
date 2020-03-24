@@ -7,6 +7,11 @@
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/MarshMello.json"
        },
        {
+          "Name":"Bad Bunny",
+          "CoverArt":"https://remezcla.com/wp-content/uploads/2019/01/Bad-Bunny-concert-poster_music-760x950.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/BadBunny.json"
+       },
+       {
           "Name":"Panic at the Disco",
           "CoverArt":"https://i.pinimg.com/564x/2c/ad/fe/2cadfe6931ac87a9d8651be830d0cc7c.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PanicAtTheDisco.json"

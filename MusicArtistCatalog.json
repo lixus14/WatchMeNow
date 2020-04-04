@@ -80,6 +80,11 @@
           "Name":"Pascu y Rodri",
           "CoverArt":"https://images.genius.com/d0155eae6380fd0e9bbaccac506e3612.800x800x1.jpg",
           "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PascuYRodri.json"
+       },
+       {
+          "Name":"Post Malone",
+          "CoverArt":"https://i.pinimg.com/originals/c3/9d/3e/c39d3e9d1ee5d501240c93470ddab5d6.jpg",
+          "TrackList":"https://lixus14.github.io/WatchMeNow/Artists/PostMalone.json"
        }
     ]
 }

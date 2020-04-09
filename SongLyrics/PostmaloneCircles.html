@@ -1,0 +1,137 @@
+<div class="song_body-lyrics">
+          <!----><h2 ng-if="!user_signed_in" class="text_label text_label--gray text_label--x_small_text_size u-top_margin">Circles Lyrics</h2><!---->
+
+          <defer-compile use-initial-content-with-key="lyrics">
+            <lyrics class="" remove-class-on-angular-load="lyrics" yields-api="$ctrl.lyrics_interface = api" canonical-lyrics-html="$ctrl.page_data.lyrics_data.body.html" on-selection-range-updated="$ctrl.update_lyrics_selection_range(range)"><div>
+    <!---->
+
+  <!---->
+
+  <!---->
+
+  <!---->
+
+  <div class="lyrics">
+    <!---->
+
+    <form ng-submit="lyrics_ctrl.finish_editing()" ng-model-options="{updateOn: 'submit'}" submit-on-cmd-enter="" dirtyable="" exports-form-api="lyrics_ctrl.lyrics_form = api" class="ng-pristine ng-valid">
+      <textarea ng-show="lyrics_ctrl.should_show_lyrics_edit_form()" ng-disabled="lyrics_ctrl.edit_blocked" tabindex="1" ng-model="editable.markdown" class="wysiwyg_input wysiwyg_input--full_width u-vertical_margins ng-pristine ng-untouched ng-valid ng-empty ng-hide" ng-class="{'wysiwyg_input--warning': lyrics_ctrl.editable_lyrics_stale}" style="overflow: hidden visible; overflow-wrap: break-word;"></textarea>
+      <textarea ng-show="lyrics_ctrl.should_show_lyrics_edit_proposal_form()" ng-disabled="lyrics_ctrl.edit_blocked" tabindex="1" ng-model="lyrics_ctrl.lyrics_for_edit_proposal.markdown" class="wysiwyg_input wysiwyg_input--full_width u-vertical_margins ng-pristine ng-untouched ng-valid ng-empty ng-hide" ng-class="{'wysiwyg_input--warning': lyrics_ctrl.editable_lyrics_stale}" style="overflow: hidden visible; overflow-wrap: break-word;"></textarea>
+    </form>
+
+    <section ng-hide="lyrics_ctrl.should_show_lyrics_edit_form() || lyrics_ctrl.should_show_lyrics_edit_proposal_form()" text-selection-changed="lyrics_ctrl.update_selection_range(ranges[0])" class=""><p>[Intro]<br>Oh, oh, oh<br>Oh,  oh, oh<br>Oh,  oh, oh, oh, oh<br><br>[Verse 1]<br>We couldn't turn around 'til we were upside down<br>I'll be the bad guy now, but know I ain't too proud<br>I  couldn't be there even when I tried<br>You  don't believe it, we do this every time<br><br>[Chorus]<br><a href="/Post-malone-circles-lyrics#note-17797267" data-id="17797267" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17797267" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="3">Seasons change and our love went cold<br>Feed  the flame 'cause we can't let go</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away</a><br><a href="/Post-malone-circles-lyrics#note-17755629" data-id="17755629" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17755629" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">I dare you to do something<br>I'm  waiting on you again, so I don't take the blame</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away, run away</a><br><br>[Verse 2]<br>Let go, I got a feeling that it's time to let go<br>I said so, I knew that this was doomed from the get-go<br><a href="/Post-malone-circles-lyrics#note-18588183" data-id="18588183" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="18588183" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="1">You thought that it was special, special<br>But it was just the sex though, the sex though</a><br>And I still hear the echoes (The echoes)<br>I got a feeling that it's time to let it go, let it go<br><defer-compile class="u-display_block" timing-label="deferred-inread-ad-loaded-desktop_song_inread" within-visibility-range="50vh">
+      
+    <span avoid-selection="" class="u-noselect">
+      <dfp-ad name="desktop_song_inread" class="u-display_block" ad-classes="{'dfp_unit--in_read': $height > 1, 'u-xx_large_top_margin': $height > 0}"><!----><div ng-if="!$ctrl.no_ad" class="dfp_unit dfp_unit--in_read u-xx_large_top_margin">
+  <div id="div-gpt-ad-desktop_song_inread-desktop_song_inread-1586396880661" class="dfp_unit-ad_container" ng-style="!$ctrl.filled &amp;&amp; {
+      'width': $ctrl.creative_size[0],
+      'height': $ctrl.creative_size[1]
+    }" data-google-query-id="CMKN8_Sc2ugCFcMNgQodXUUC5g" style=""><div id="google_ads_iframe_/342026871/desktop_song_inread_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/342026871/desktop_song_inread_0" title="3rd party ad content" name="google_ads_iframe_/342026871/desktop_song_inread_0" width="336" height="280" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;" data-google-container-id="6" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-load-complete="true"></iframe></div></div>
+</div><!---->
+</dfp-ad>
+    </span>
+  
+    </defer-compile><br>[Chorus]<br><a href="/Post-malone-circles-lyrics#note-17797267" data-id="17797267" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17797267" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="3">Seasons change and our love went cold<br>Feed the flame 'cause we can't let go</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away</a><br><a href="/Post-malone-circles-lyrics#note-17755629" data-id="17755629" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17755629" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">I dare you to do something<br>I'm waiting on you again, so I don't take the blame</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away, run away</a><br><br>[Bridge]<br>Maybe you don't understand what I'm going through<br>It's only me, what you got to lose?<br>Make up your mind, tell me, what are you gonna do?<br>It's only me, let it go<br><br>[Chorus]<br><a href="/Post-malone-circles-lyrics#note-17797267" data-id="17797267" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17797267" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="3">Seasons change and our love went cold<br>Feed the flame 'cause we can't let go</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away</a><br><a href="/Post-malone-circles-lyrics#note-17755629" data-id="17755629" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17755629" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">I dare you to do something<br>I'm waiting on you again, so I don't take the blame</a><br><a href="/Post-malone-circles-lyrics#note-17908225" data-id="17908225" class="referent referent--yellow" ng-click="open()" ng-class="{          'referent--linked_to_preview': song_ctrl.referent_has_preview(fragment_id),          'referent--linked_to_preview_active': song_ctrl.highlight_preview_referent(fragment_element_id),          'referent--purple_indicator': song_ctrl.show_preview_referent_indicator(fragment_element_id)        }" prevent-default-click="" annotation-fragment="17908225" on-hover-with-no-digest="set_current_hover_and_digest(hover ? fragment_id : undefined)" classification="accepted" image="false" pending-editorial-actions-count="0">Run away, but we're running in circles<br>Run away, run away, run away</a></p></section>
+
+    <!---->
+  </div>
+</div>
+</lyrics>
+          </defer-compile>
+
+          <share-buttons song="song"><div class="share_buttons u-vertical_margins">
+  <facebook-share-button url="song.share_url"><a ng-click="$ctrl.share_on_facebook()" class="square_button square_button--facebook" ng-class="{
+    'square_button--transparent square_button--facebook_inverse nganimate-disable_transition': $ctrl.variants.transparent,
+    'square_button--facebook': !$ctrl.variants.transparent
+  }">
+  <svg class="inline_icon" src="facebook.svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9.95 20"><path d="M8.09 3.81c-1.4 0-1.58.84-1.58 1.67v1.3h3.35L9.49 11h-3v9H2.33v-9H0V6.88h2.42V3.81C2.42 1.3 3.81 0 6.6 0H10v3.81z"></path></svg>
+  <!---->
+</a>
+</facebook-share-button>
+  <twitter-share-button url="song.share_url" message="song.twitter_share_message_without_url"><a ng-click="$ctrl.share_on_twitter()" class="square_button square_button--twitter" ng-class="{
+    'square_button--transparent square_button--twitter_inverse nganimate-disable_transition': $ctrl.variants.transparent,
+    'square_button--twitter': !$ctrl.variants.transparent
+  }">
+  <svg class="inline_icon" src="twitter.svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 16.43"><path d="M20 1.89l-2.3 2.16v.68a12.28 12.28 0 0 1-3.65 8.92c-5 5.13-13.1 1.76-14.05.81 0 0 3.78.14 5.81-1.76A4.15 4.15 0 0 1 2.3 9.86h2S.81 9.05.81 5.81A11 11 0 0 0 3 6.35S-.14 4.05 1.49.95a11.73 11.73 0 0 0 8.37 4.19A3.69 3.69 0 0 1 13.51 0a3.19 3.19 0 0 1 2.57 1.08 12.53 12.53 0 0 0 3.24-.81l-1.75 1.89A10.46 10.46 0 0 0 20 1.89z"></path></svg>
+  <!---->
+</a>
+</twitter-share-button>
+  <span>
+    <pyong-button type="song" object="song" on-unauthorized="ctrl.prompt_auth = true"><div class="pyong_button square_button drop-target square_button--depress_on_click" ng-click="ctrl.pyong()" ng-disabled="ctrl.pyonged()" ng-class="{
+    'square_button--transparent nganimate-disable_transition': variants.transparent,
+    'square_button--purple': variants.purple,
+    'square_button--disabled': ctrl.pyonged(),
+    'square_button--depress_on_click': !ctrl.pyonged(),
+  }" tether-drop-target="">
+  <span ng-class="{'nganimate-cycle_upwards': ctrl.clicked_pyong}">
+    <svg class="inline_icon inline_icon--reading_size inline_icon--up_1" src="lightning.svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11.37 22"><path d="M0 7l6.16-7 3.3 7H6.89S5.5 12.1 5.5 12.17h5.87L6.09 22l.66-7H.88l2.89-8z"></path></svg>
+  </span>
+  <span ng-bind="pyongable.pyongs_count">103</span>
+
+  <!---->
+
+  <!----><tether-drop position="bottom center" ng-if="!ctrl.show_pyong_form" show-on="hover"></tether-drop><!---->
+</div>
+</pyong-button>
+    <follow-button type="song" object="song" on-unauthorized="ctrl.prompt_auth = true"><!---->
+</follow-button>
+    <span class="square_button" ng-click="ctrl.showing_ellipsis_menu = !ctrl.showing_ellipsis_menu" ng-class="{'square_button--active': ctrl.showing_ellipsis_menu}">Embed</span>
+
+    <!---->
+  </span>
+</div>
+<!---->
+</share-buttons>
+
+          <defer-compile use-initial-content-with-key="recirculated_content" within-visibility-range="150px"><div initial-content-for="recirculated_content" ng-non-bindable="true">
+        
+          <div class="u-xx_large_vertical_margins">
+            <div class="text_label text_label--gray">More on Genius</div>
+            
+              
+                <a href="https://genius.com/a/post-malone-earns-his-fourth-no-1-hit-with-circles" class="recirculated_content">
+                  <div class="recirculated_content-image"></div>
+                  <div class="recirculated_content-info">
+                    <div class="recirculated_content-title">Post Malone Earns His Fourth No. 1 Hit With “Circles”</div>
+                  </div>
+                </a>
+              
+            
+              
+                <a href="https://genius.com/a/stream-read-all-the-lyrics-to-post-malones-new-album-hollywoods-bleeding" class="recirculated_content">
+                  <div class="recirculated_content-image"></div>
+                  <div class="recirculated_content-info">
+                    <div class="recirculated_content-title">Read All The Lyrics To Post Malone’s New Album ‘Hollywood’s Bleeding’</div>
+                  </div>
+                </a>
+              
+            
+              
+                <a href="https://genius.com/a/post-malone-releases-new-single-circles-ahead-of-his-third-album" class="recirculated_content">
+                  <div class="recirculated_content-image"></div>
+                  <div class="recirculated_content-info">
+                    <div class="recirculated_content-title">Post Malone Releases New Single “Circles” Ahead Of His Third Album</div>
+                  </div>
+                </a>
+              
+            
+          </div>
+        
+      </div></defer-compile>
+
+          <dfp-ad name="desktop_song_lyrics_footer" ad-classes="['dfp_unit--in_read u-top_margin']"><!----><div ng-if="!$ctrl.no_ad" class="dfp_unit dfp_unit--in_read u-top_margin">
+  <div id="div-gpt-ad-desktop_song_lyrics_footer-desktop_song_lyrics_footer-1586396880661" class="dfp_unit-ad_container" ng-style="!$ctrl.filled &amp;&amp; {
+      'width': $ctrl.creative_size[0],
+      'height': $ctrl.creative_size[1]
+    }" data-google-query-id="CM2N8_Sc2ugCFcMNgQodXUUC5g" style=""><div id="google_ads_iframe_/342026871/desktop_song_lyrics_footer_0__container__" style="border: 0pt none; display: inline-block; width: 300px; height: 600px;"><iframe frameborder="0" src="https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html" id="google_ads_iframe_/342026871/desktop_song_lyrics_footer_0" title="3rd party ad content" name="" scrolling="no" marginwidth="0" marginheight="0" width="300" height="600" data-is-safeframe="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" data-google-container-id="h" style="border: 0px; vertical-align: bottom;" data-load-complete="true"></iframe></div></div>
+</div><!---->
+</dfp-ad>
+
+          <taboola mode="thumbnails-a" placement="Below Article Thumbnails" container-classes="u-vertical_margins">
+    <!---->
+  </taboola>
+
+          <div class="u-vertical_margins">
+            <defer-compile within-visibility-range="150px"></defer-compile>
+          </div>
+        </div>

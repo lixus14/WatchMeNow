@@ -1,0 +1,10 @@
+{
+  "RadioStationsCatalog": 
+    [
+       {
+          "Name":"KQ-105",
+          "CoverArt":"https://i.pinimg.com/564x/d9/ba/95/d9ba95a57df148ea87212825766f12ca.jpg",
+          "StationUrl":"https://live.wostreaming.net/direct/univision-wkaqfmaac-imc1?type=.flv"
+       }
+    ]
+}

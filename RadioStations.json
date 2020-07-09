@@ -4,7 +4,9 @@
        {
           "Name":"KQ-105",
           "CoverArt":"https://static-media.streema.com/media/cache/79/24/792423688f2f93ddc849b544a643b784.jpg",
-          "StationUrl":"https://live.wostreaming.net/direct/univision-wkaqfmaac-imc1?type=.flv"
+          "StationUrl":"https://live.wostreaming.net/direct/univision-wkaqfmaac-imc1?type=.flv",
+          "Frequency":"104.7",
+          "FrequencyType":"FM"
        }
     ]
 }

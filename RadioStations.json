@@ -7,6 +7,27 @@
           "StationUrl":"https://live.wostreaming.net/direct/univision-wkaqfmaac-imc1?type=.flv",
           "Frequency":"104.7",
           "FrequencyType":"FM"
+       },
+       {
+          "Name":"Z-93",
+          "CoverArt":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/zeta.png",
+          "StationUrl":"https://live.wostreaming.net/direct/sbsystems-wzntfmaac-imc1?type=.flv",
+          "Frequency":"93.7",
+          "FrequencyType":"FM"
+       },
+       {
+          "Name":"La-X",
+          "CoverArt":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/la-x.png",
+          "StationUrl":"http://ice.eleden.com:8000/lax.aac?type=.flv",
+          "Frequency":"100.7",
+          "FrequencyType":"FM"
+       },
+      {
+          "Name":"La Nueva - 94",
+          "CoverArt":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/la-nueva.png",
+          "StationUrl":"https://live.wostreaming.net/direct/sbsystems-wodafmaac-ib-64?type=.flv",
+          "Frequency":"94.7",
+          "FrequencyType":"FM"
        }
     ]
 }

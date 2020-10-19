@@ -38,8 +38,8 @@
        },
        {
           "Name":"Hot - 102",
-          "CoverArt":"http://server7.servistreaming.com/proxy/hot?mp=/stream.m3u",
-          "StationUrl":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/hot-102.png",
+          "CoverArt":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/hot-102.png",
+          "StationUrl":"http://server7.servistreaming.com/proxy/hot?mp=/stream.m3u",
           "Frequency":"102.5",
           "FrequencyType":"FM"
        }

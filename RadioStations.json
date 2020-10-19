@@ -35,6 +35,13 @@
           "StationUrl":"https://stream.eleden.com:8210/magic.aac?type=.flv",
           "Frequency":"97.3",
           "FrequencyType":"FM"
+       },
+       {
+          "Name":"Hot - 102",
+          "CoverArt":"http://server7.servistreaming.com/proxy/hot?mp=/stream.m3u",
+          "StationUrl":"https://cdn.webrad.io/images/logos/radiosdepuertorico-com/hot-102.png",
+          "Frequency":"102.5",
+          "FrequencyType":"FM"
        }
     ]
 }
